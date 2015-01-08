@@ -1,8 +1,7 @@
---- !vsouza/dotfiles/osx
-computer_name: Vinicius Souza
-host_name: Vinicius Souza
-localhost_name: Vinicius Souza
-sreenshots_folder: $HOME/Pictures/screenshots
+computer_name: "Vinicius Souza"
+host_name: "Vinicius Souza"
+localhost_name: "Vinicius Souza"
+sreenshots_folder: "$HOME/Pictures/screenshots"
 dock:
     icon_size : 18
     auto_hide : true
