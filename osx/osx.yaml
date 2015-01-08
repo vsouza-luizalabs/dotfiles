@@ -1,0 +1,41 @@
+--- !vsouza/dotfiles/osx
+computer_name: Vinicius Souza
+host_name: Vinicius Souza
+localhost_name: Vinicius Souza
+sreenshots_folder: $HOME/Pictures/screenshots
+dock:
+    icon_size : 18
+    auto_hide : true
+menu_bar:
+    hide_timemachine_icon: false
+    hide_clock: false
+    hide_spotlight_icon: false
+    Increasing_the_window_resize_speed_for_Cocoa_applications: false
+general_power:
+
+trackpad:
+
+mouse:
+
+keyboard:
+
+screen:
+
+finder:
+
+dock_&_mission_control:
+
+chrome:
+    
+safari:
+
+webkit:
+
+time_machine:
+
+transmission.app:
+
+
+
+
+

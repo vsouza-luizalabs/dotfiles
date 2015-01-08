@@ -1,0 +1,9 @@
+php_version: 5.6
+php_extensions: 
+    gd: true
+    xsl: true
+    dev: true
+    mcrypt: true
+    ffmpeg: false
+    pdo: true
+composer: true
